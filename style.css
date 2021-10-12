@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 800px;
+    text-align: center;
+}
+#welcome{
+position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: white;
+    left: 0;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background: linear-gradient(#ff01b0 0%,#897cf3 100%);
+    display: table;
+    width: 100px;
+    height: 100px;
+    z-index: 9;
+}
